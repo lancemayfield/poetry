@@ -9,6 +9,6 @@ Even more changes
 
 Editing this file within gitHub
 
-What is going the heck on here.
+What--the heck is going on here.
 We are now--making more changes
 For the rare most made wisely
