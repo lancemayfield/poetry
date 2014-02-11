@@ -9,5 +9,6 @@ Even more changes
 
 Editing this file within gitHub
 
-What the heck is going on here.
-We are now making more changes
+What--the heck is going on here.
+We now making are  more changes
+Help me for I have never been able to complete the changes
